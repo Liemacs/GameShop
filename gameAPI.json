@@ -1,0 +1,385 @@
+[
+    {
+        "id": "0",
+        "title": "Crossout",
+        "img": "./Images/crossout.jpg",
+        "genre": "Shooter",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Android"
+        ],
+        "publisher": "Targem",
+        "developer": "Gaijin",
+        "description": "Crossout is a free-to-play vehicular combat video game developed by Targem Games and is published by Gaijin Entertainment for Android, Windows, PlayStation 4, Xbox One and Xbox Series X/S. As of 2021, PlayPark, a part of AsiaSoft acquired the game's server of Asian territories.",
+        "release_date": "2017-05-30",
+        "System_requirements": {
+            "OS": "Windows 7/8/10",
+            "CPU": [
+                "Intel Core 2 Duo E8500",
+                "AMD Phenom II X3 720"
+                ],
+            "VGA": ["GeForce GT 440", "AMD Radeon HD 5670"],
+            "RAM": "4GB",
+            "Storage": "7GB"
+        },
+        "rating": "5704667",
+        "price": "0"
+    },
+    {
+        "id": "1",
+        "title": "Apex Legends",
+        "img": "./Images/apex.jpg",
+        "genre": "Shooter",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch",
+            "Android",
+            "iOS"
+        ],
+        "publisher": "Electronic Arts",
+        "developer": "Electronic Arts",
+        "description": "Apex Legends is a free-to-play battle royale-hero shooter game developed by Respawn Entertainment and published by Electronic Arts. It was released for Microsoft Windows, PlayStation 4, and Xbox One in February 2019, and for Nintendo Switch in March 2021.",
+        "release_date": "2019-02-04",
+        "System_requirements": {
+            "OS": "Windows 7/8/8.1/10",
+            "CPU": ["Intel Core i3 6300", "AMD FX 4350"],
+            "VGA": ["AMD Radeon™ HD 7730", "NVIDIA GeForce® GT 640"],
+            "RAM": "6GB",
+            "Storage": "21GB"
+        },
+        "rating": "180899",
+        "price": "0"
+    },
+    {
+        "id": "2",
+        "title": "Counter-Strike: Global Offensive",
+        "img": "./Images/cs.jpg",
+        "genre": "Shooter",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "Xbox 360",
+            "macOS"
+        ],
+        "publisher": "Valve Corporation",
+        "developer": "Hidden Path Entertainment",
+        "description": "Counter-Strike: Global Offensive is a multiplayer first-person shooter developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series. Developed for over two years, Global Offensive was released for Windows, macOS, Xbox 360, and PlayStation 3 in August 2012, and for Linux in 2014.",
+        "release_date": "2012-08-21",
+        "System_requirements": {
+            "OS": "Windows XP/Vista/7/8/8.1/10",
+            "CPU": ["Intel® Xeon®"],
+            "VGA": ["AMD Radeon RX 550"],
+            "RAM": "2GB",
+            "Storage": "14GB"
+        },
+        "rating": "2706540",
+        "price": "14.99"
+    },
+    {
+        "id": "3",
+        "title": "Bless Online",
+        "img": "./Images/bless.jpg",
+        "genre": "MMORPG",
+        "platform": [
+            "PC"
+        ],
+        "publisher": "Neowiz",
+        "developer": "Neowiz Bless Studio",
+        "description": "Bless Online was a massively multiplayer online role-playing game developed by Neowiz Games. The release date was May 28, 2018, for Founder's Pack purchasers and May 30 for Early Access on Steam. Bless Online uses a free-to-play business model.",
+        "release_date": "2018-05-30",
+        "System_requirements": {
+            "OS": "Windows XP/Vista/7/8/8.1/10",
+            "CPU": ["Intel Core i5 4430", "AMD FX 6300"],
+            "VGA": ["NVIDIA GeForce GTX 960", "AMD FX-6300"],
+            "RAM": "2GB",
+            "Storage": "50GB"
+        },
+        "rating": "2556549",
+        "price": "0"
+    },
+    {
+        "id": "4",
+        "title": "Stardew Valley",
+        "img": "./Images/stardew-valley.jpg",
+        "genre": "RPG",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch",
+            "Android",
+            "iOS",
+            "macOS"
+        ],
+        "publisher": "ConcernedApe",
+        "developer": "ConcernedApe",
+        "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+        "release_date": "2016-02-26",
+        "System_requirements": {
+            "OS": "Windows /7/8/10",
+            "CPU": ["2Ghz"],
+            "VGA": ["256MB video memory"],
+            "RAM": "2GB",
+            "Storage": "1GB"
+        },
+        "rating": "428843",
+        "price": "9.99"
+    },
+    {
+        "id": "5",
+        "title": "Gunfire Reborn",
+        "img": "./Images/gunfire-reborn.jpg",
+        "genre": "Action",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "publisher": "Duoyi Games",
+        "developer": "Duoyi Games",
+        "description": "Gunfire Reborn is a level-based adventure game featuring FPS, Roguelite and RPG. Players can control heroes with various abilities to experience diverse Build gameplay, use various weapons to explore procedurally-generated levels. You can play the game alone, or join 4-player coop.",
+        "release_date": "2020-05-23",
+        "System_requirements": {
+            "OS": "Windows 7/8/10",
+            "CPU": ["Intel Core i5-6400", "AMD FX-8320"],
+            "VGA": ["NVIDIA GeForce GTX 960"],
+            "RAM": "4GB",
+            "Storage": "4GB"
+        },
+        "rating": "71183",
+        "price": "10.49"
+    },
+    {
+        "id": "6",
+        "title": "Titan Quest Anniversary Edition",
+        "img": "./Images/titan-quest.jpg",
+        "genre": "RPG",
+        "platform": [
+            "PC",
+            "iOS",
+            "Android"
+        ],
+        "publisher": "THQ Nordic",
+        "developer": "Iron Lore Entertainment",
+        "description": "For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience.",
+        "release_date": "2016-08-31",
+        "System_requirements": {
+            "OS": "Windows XP/Vista/7/8/10",
+            "CPU": ["2.0 GHz"],
+            "VGA": ["NVIDIA GeForce 6800"],
+            "RAM": "1GB",
+            "Storage": "5GB"
+        },
+        "rating": "544663",
+        "price": "12.59"
+    },
+    {
+        "id": "7",
+        "title": "Grand Theft Auto V",
+        "img": "./Images/gta-v.jpg",
+        "genre": "Action",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox 360",
+            "Xbox Series X",
+            "Xbox Series S"
+        ],
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+        "release_date": "2015-03-14",
+        "System_requirements": {
+            "OS": "Windows Vista/7/8/8.1/10",
+            "CPU": ["Intel Core 2 Q6600", "AMD Phenom 9850"],
+            "VGA": ["NVIDIA 9800 GT", "AMD HD 4870"],
+            "RAM": "4GB",
+            "Storage": "100GB"
+        },
+        "rating": "18020861",
+        "price": "12.58"
+    },
+    {
+        "id": "8",
+        "title": "Forza Horizon 5",
+        "img": "./Images/forza-horizon-5.jpg",
+        "genre": "Racing",
+        "platform": [
+            "PC",
+            "Xbox One",
+            "Xbox Series X",
+            "Xbox Series S"
+        ],
+        "publisher": "Xbox Game Studios",
+        "developer": "Playground Games",
+        "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world's greatest cars. Begin Your Horizon Adventure today and add to your Wishlist!",
+        "release_date": "2021-11-09",
+        "System_requirements": {
+            "OS": "Windows 10",
+            "CPU": ["Intel i5-4460", "AMD Ryzen 3 1200"],
+            "VGA": ["NVidia GTX 970", "AMD RX 470"],
+            "RAM": "8GB",
+            "Storage": "110GB"
+        },
+        "rating": "1370765",
+        "price": "31.30"
+    },
+    {"id": "9",
+        "title": "Red Dead Redemption 2",
+        "img": "./Images/red-dead-redemption-2.jpg",
+        "genre": "Action",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Games",
+        "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world's greatest cars. Begin Your Horizon Adventure today and add to your Wishlist!",
+        "release_date": "2021-11-09",
+        "System_requirements": {
+            "OS": "Windows 10",
+            "CPU": ["Intel® Core™ i5-2500K", "AMD FX-6300"],
+            "VGA": ["Nvidia GeForce GTX 770", "AMD Radeon R9 280"],
+            "RAM": "8GB",
+            "Storage": "150GB"
+        },
+        "rating": "6916675",
+        "price": "17.49"
+    },
+    {"id": "10",
+        "title": "The Elder Scrolls",
+        "img": "./Images/the-elder-scrolls.jpg",
+        "genre": "MMORPG",
+        "platform": [
+            "PC",
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox 360",
+            "Xbox Series X",
+            "Xbox Series S",
+            "Nintendo Switch",
+            "Android",
+            "iOS"
+        ],
+        "publisher": "Bethesda Softworks",
+        "developer": "Zenimax Online Studios",
+        "description": "Join over 18 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required.",
+        "release_date": "2014-04-04",
+        "System_requirements": {
+            "OS": "Windows 10",
+            "CPU": ["Intel® Core i3 540", "AMD A6-3620"],
+            "VGA": ["NVidia GeForce 460", "AMD Radeon 6850"],
+            "RAM": "3GB",
+            "Storage": "85GB"
+        },
+        "rating": "6396697",
+        "price": "5.99"
+    },
+    {"id": "11",
+        "title": "Black Desert",
+        "img": "./Images/black-desert.jpg",
+        "genre": "MMORPG",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "Xbox Series S",
+            "Android",
+            "iOS"
+        ],
+        "publisher": "Pearl Abyss",
+        "developer": "Pearl Abyss",
+        "description": "Black Desert is a sandbox, living-world MMORPG. Experience fast-paced, action-packed combat, hunt monsters and huge bosses, fight with friends in a guild to siege nodes and conquer castles, train your life skills such as fishing, trading, crafting, cooking, and much more!",
+        "release_date": "2019-07-26",
+        "System_requirements": {
+            "OS": "Windows 10",
+            "CPU": ["Intel Core i3-530", "AMD A6-3620"],
+            "VGA": ["NVidia GeForce 9800 GTX", "AMD Radeon HD 3870 X2"],
+            "RAM": "4GB",
+            "Storage": "39GB"
+        },
+        "rating": "1027696",
+        "price": "5.99"
+    },
+    {"id": "12",
+        "title": "Fallout 76",
+        "img": "./Images/follout-76.jpg",
+        "genre": "RPG",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "publisher": "Bethesda Softworks",
+        "developer": "Bethesda Game Studios",
+        "description": "Bethesda Game Studios welcome you to Fallout 76. Twenty-five years after the bombs fall, you and your fellow Vault Dwellers emerge into post-nuclear America. Explore a vast wasteland in this open-world multiplayer addition to the Fallout story.",
+        "release_date": "2020-03-14",
+        "System_requirements": {
+            "OS": "Windows 7/8/8.1/10",
+            "CPU": ["Intel Core i5-6600k", "AMD Ryzen 3 1300X"],
+            "VGA": ["NVIDIA GTX 780", "AMD Radeon R9 285"],
+            "RAM": "8GB",
+            "Storage": "80GB"
+        },
+        "rating": "678144",
+        "price": "19.99"
+    },
+    {"id": "13",
+        "title": "Need for Speed™ Heat",
+        "img": "./Images/need-for-speed-head.jpg",
+        "genre": "Racing",
+        "platform": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "publisher": "Electronic Arts",
+        "developer": "Ghost Games",
+        "description": "Hustle by day and risk it all at night in Need for Speed™ Heat Deluxe Edition, a white-knuckle street racer, where the lines of the law fade as the sun starts to set.",
+        "release_date": "2019-11-08",
+        "System_requirements": {
+            "OS": "Windows 10",
+            "CPU": ["Intel® Core i5-3570"],
+            "VGA": ["NVIDIA GeForce GTX 760", "AMD Radeon 7970"],
+            "RAM": "8GB",
+            "Storage": "50GB"
+        },
+        "rating": "2207998",
+        "price": "69.99"
+    }
+    ,
+    {"id": "14",
+        "title": "Wreckfest",
+        "img": "./Images/Wreckfest.jpg",
+        "genre": "Racing",
+        "platform": [
+            "PC"
+        ],
+        "publisher": "THQ Nordic",
+        "developer": "Bugbear",
+        "description": "Wreckfest is a demolition derby themed racing game with soft-body damage modeling, sophisticated driving dynamics and in-depth vehicle upgrading, featuring both demolition derbies and more traditional track races. It's all about fun, breakneck racing and over-the-top crashes.",
+        "release_date": "2018-06-14",
+        "System_requirements": {
+            "OS": "Windows 10",
+            "CPU": ["Intel® Core™ i3"],
+            "VGA": ["NVIDIA Geforce® GTX™ 560", "AMD Radeon™ HD 7770"],
+            "RAM": "8GB",
+            "Storage": "32GB"
+        },
+        "rating": "1346048",
+        "price": "14.99"
+    }
+]

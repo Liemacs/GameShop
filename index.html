@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Game Store</title>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="nav">
+            <img src="./Images/logo.png" alt="">
+            <h2>Game Store</h2>
+        </a>
+    </div>
+    <main class="container">
+        <aside>
+            <form>
+                <span>Genre</span>
+                <select name="genre" id="genre">
+                    <option value="All">All</option>
+                </select>
+                    <span class="spPlatform">Platforms</span>
+                <select name="platform" id="platform">
+                    <option value="PC">PC</option>
+                    <option value="PlayStation 3">PlayStation 3</option>
+                    <option value="PlayStation 4">PlayStation 4</option>
+                    <option value="PlayStation 5">PlayStation 5</option>
+                    <option value="Xbox One">Xbox One</option>
+                    <option value="Xbox 360">Xbox 360</option>
+                    <option value="Xbox Series X">Xbox Series X</option>
+                    <option value="Xbox Series S">Xbox Series S</option>
+                    <option value="macOS">macOS</option>
+                    <option value="iOS">iOS</option>
+                    <option value="Android">Android</option>
+                    <option value="Nintendo Switch">Nintendo Switch</option>
+                </select>
+                <span>Price</span>
+                <div class="price-filter">
+                <input type="number" id="at-numb-price" placeholder="0">
+                <span>→</span>
+                <input type="number" id="to-numb-price" placeholder="100">
+                </div>
+            </form>
+        </aside>
+        <div class="content">
+            <div class="sortBy-box">
+                <h3>Games for your leisure</h3>
+                <div class="sortBy">
+                    <span>Sort by:</span>
+                    <select name="low_high" id="low_high">
+                        <option value="Unselected">Unselected</option>
+                        <option value="Best">Best sellers</option>
+                        <option value="Low">Low to High</option>
+                        <option value="High">High to Low</option>
+                    </select>
+                </div>
+            </div>
+            <div class="content-games">
+                
+            </div>
+        </div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="./js/script.js"></script>
+</body>
+</html>
